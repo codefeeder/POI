@@ -12,13 +12,14 @@ Setup
 1) Setup a conda environment or virtualenv.
 2) Install requirements.txt.
 
+   Steps:-
    
-   ``` pip install virtualenv ```
+   ```$ pip install virtualenv ```
    
-   ```virtualenv myenv```
+   ```$ virtualenv myenv```
 
-   ```myenv\Scripts\activate```
+   ```$ myenv\Scripts\activate```
 
-   ```pip install -r requirements.txt```
+   ```$ pip install -r requirements.txt```
    
    
