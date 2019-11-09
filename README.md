@@ -7,7 +7,7 @@ Identifying commercial centers using Points of Interest (POI) OSM data for New D
 
 <img src="results/commercial_centers.PNG">
 
-##### The following scatter plot provides an overview of the clusters for markets identified during our analysis.
+##### The following scatter plot provides an overview of the clusters for markets identified during analysis.
 x-axis - Longitude, y-axis - Latitude
 <img src="results/clusters.PNG">
 
