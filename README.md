@@ -3,11 +3,11 @@ Identifying Commercial Centers/Markets
 
 Identifying commercial centers using Points of Interest (POI) OSM data for New Delhi using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm.
 
-##### The following map highlights the results (all the commercial centers/markets) obtained after analysis.
+##### The following map highlights the results (all the commercial centers/markets) obtained after analysis marked on New Delhi's map.
 
 <img src="results/commercial_centers.PNG">
 
-##### The following scatter plot provides an overview of the clusters for markets identified during analysis.
+##### The following scatter plot provides an overview of the markets(clusters) identified during analysis.
 x-axis - Longitude, y-axis - Latitude
 <img src="results/clusters.PNG">
 
