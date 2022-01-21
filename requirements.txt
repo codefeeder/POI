@@ -68,7 +68,7 @@ imageai==2.0.2
 importlib-metadata==0.6
 ipwhois==1.1.0
 ipykernel==5.1.0
-ipython==7.0.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipythonblocks==1.8.0
 ipywidgets==7.4.2
