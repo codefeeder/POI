@@ -213,7 +213,7 @@ traitlets==4.3.2
 twilio==6.25.0
 typing-extensions==3.7.4
 tzlocal==2.0.0
-ujson==1.35
+ujson==5.2.0
 Unidecode==1.0.23
 urllib3==1.24.2
 wcwidth==0.1.7
